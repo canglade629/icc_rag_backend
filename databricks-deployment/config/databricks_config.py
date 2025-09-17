@@ -135,6 +135,8 @@ DATABRICKS_PATHS = {
     "chunks_table": "icc.jugement.chunks",
     "rag_table": "icc.jugement.chunks_for_rag",
     "summary_table": "icc.jugement.chunks_summary",
+    "parsed_document_table": "icc.jugement.parsed_document",
+    "parsed_for_chunking": "icc.jugement.parsed_for_chunking",
     
     # Model names
     "vector_search_model": "icc.jugement.vector_search_model",
